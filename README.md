@@ -2,10 +2,11 @@
 
 Sou um estudante de ciencia da computação na UFF-PURO.
 
-##Como entrar em contato?
-###[Discord](https://discord.gg/user/Tetrak#3867)<br>
-###[Linkedin](https://www.linkedin.com/in/gabrielr-dev/)<br>
-###[Twitter](https://twitter.com/ribeir_tk)<br>
+Como entrar em contato?<br>
+[Discord](https://discord.gg/user/Tetrak#3867)<br>
+[Linkedin](https://www.linkedin.com/in/gabrielr-dev/)<br>
+[Twitter](https://twitter.com/ribeir_tk)<br>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tetr4k&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
