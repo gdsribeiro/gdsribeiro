@@ -8,7 +8,7 @@ Como entrar em contato?<br>
 [Twitter](https://twitter.com/ribeir_tk)<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tetr4k&show_icons=true&hide=stars,issues&theme=react)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tetr4k&layout=compact&langs_count=9&hide=Assembly,Makefile,Objective-C)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tetr4k&layout=compact&langs_count=5&hide=Assembly,Makefile,Objective-C)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Tetr4k/tetr4k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
