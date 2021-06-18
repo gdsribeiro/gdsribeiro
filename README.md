@@ -7,7 +7,7 @@ Como entrar em contato?<br>
 [Linkedin](https://www.linkedin.com/in/gabrielr-dev/)<br>
 [Twitter](https://twitter.com/ribeir_tk)<br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tetr4k&show_icons=true&hide=stars,issues&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tetr4k&show_icons=true&hide=stars,issues&theme=react)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tetr4k&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
