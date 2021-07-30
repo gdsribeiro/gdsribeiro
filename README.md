@@ -3,8 +3,10 @@
 
 Sou um estudante de Ciencia da Computação na UFF-PURO e Tecnico em informatica pelo IFRJ-CAC.
 
-* Como entrar em contato?<br>
-[Linkedin](https://www.linkedin.com/in/gabrielr-dev/) | [Twitter](https://twitter.com/ribeir_tk) | [Telegram](https://t.me/ribeir_tk)
+## Como entrar em contato?<br>
+* [Linkedin](https://www.linkedin.com/in/gabrielr-dev/)
+* [Telegram](https://t.me/ribeir_tk)
+* [Twitter](https://twitter.com/ribeir_tk)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tetr4k&layout=compact&langs_count=5&exclude_repo=LancaBolinhas&hide=Assembly,Makefile,Objective-C)](https://github.com/anuraghazra/github-readme-stats)
 
