@@ -3,7 +3,7 @@
 
 Sou um estudante de Ciencia da Computação na UFF-PURO e Tecnico em informatica pelo IFRJ-CAC.
 
-## Como entrar em contato?<br>
+### Como entrar em contato?<br>
 * [Linkedin](https://www.linkedin.com/in/gabrielr-dev/)
 * [Telegram](https://t.me/ribeir_tk)
 * [Twitter](https://twitter.com/ribeir_tk)
