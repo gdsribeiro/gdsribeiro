@@ -1,9 +1,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tetr4k&show_icons=true&hide=stars,issues&theme=react)](https://github.com/anuraghazra/github-readme-stats)<br>
 # Ola 👋
 
-Sou um estudante de ciencia da computação na UFF-PURO.
+Sou um estudante de Ciencia da Computação na UFF-PURO e Tecnico em informatica pelo IFRJ-CAC.
 
-Como entrar em contato?<br>
+* Como entrar em contato?<br>
 [Linkedin](https://www.linkedin.com/in/gabrielr-dev/) | [Twitter](https://twitter.com/ribeir_tk) | [Telegram](https://t.me/ribeir_tk)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tetr4k&layout=compact&langs_count=5&exclude_repo=LancaBolinhas&hide=Assembly,Makefile,Objective-C)](https://github.com/anuraghazra/github-readme-stats)
