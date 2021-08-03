@@ -2,6 +2,20 @@
 
 Atualmente faço Ciencia da Computação na UFF-PURO e sou Tecnico em informatica pelo IFRJ-CAC.
 
+<div>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+</div>
 ### Como entrar em contato?<br>
 * [Linkedin](https://www.linkedin.com/in/gabrielr-dev/)
 * [Telegram](https://t.me/ribeir_tk)
@@ -9,8 +23,8 @@ Atualmente faço Ciencia da Computação na UFF-PURO e sou Tecnico em informatic
 
  ##
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tetr4k&show_icons=true&hide=stars,issues&theme=react">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetr4k&layout=compact&langs_count=5&theme=react&exclude_repo=LancaBolinhas&hide=Assembly,Makefile,Objective-C"
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tetr4k&show_icons=true&hide=stars,issues&theme=react">
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetr4k&layout=compact&langs_count=5&theme=react&exclude_repo=LancaBolinhas&hide=Assembly,Makefile,Objective-C"
 </div>
   
 <!--
