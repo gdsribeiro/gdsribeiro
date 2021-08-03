@@ -15,7 +15,7 @@ Atualmente faço Ciencia da Computação na UFF-PURO e sou Tecnico em informatic
 
 ##
 
-<div>
+<div style="text-align: center">
  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
