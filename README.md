@@ -8,11 +8,11 @@ Atualmente faço Ciencia da Computação na UFF-PURO e sou Tecnico em informatic
 * [Twitter](https://twitter.com/ribeir_tk)
 
 ##
-
-<div style="justify-content: space-beetween">
+<div style="displat: flex; justify-content: space-beetween">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tetr4k&show_icons=true&hide=stars,issues&theme=react">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetr4k&layout=compact&langs_count=5&theme=react&exclude_repo=LancaBolinhas&hide=Assembly,Makefile,Objective-C"
 </div>
+  
 ##
   
 <!--
