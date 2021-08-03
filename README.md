@@ -8,7 +8,7 @@ Sou um estudante de Ciencia da Computação na UFF-PURO e Tecnico em informatica
 * [Telegram](https://t.me/ribeir_tk)
 * [Twitter](https://twitter.com/ribeir_tk)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tetr4k&layout=compact&langs_count=5&exclude_repo=LancaBolinhas&hide=Assembly,Makefile,Objective-C)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tetr4k&layout=compact&langs_count=5&theme=react&exclude_repo=LancaBolinhas&hide=Assembly,Makefile,Objective-C)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Tetr4k/tetr4k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
