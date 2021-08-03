@@ -2,6 +2,8 @@
 
 Atualmente faço Ciencia da Computação na UFF-PURO e sou Tecnico em informatica pelo IFRJ-CAC.
 
+##
+
 <div>
  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -17,7 +19,8 @@ Atualmente faço Ciencia da Computação na UFF-PURO e sou Tecnico em informatic
  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
 
-### Como entrar em contato?<br>
+### Como entrar em contato?
+
 * [Linkedin](https://www.linkedin.com/in/gabrielr-dev/)
 * [Telegram](https://t.me/ribeir_tk)
 * [Twitter](https://twitter.com/ribeir_tk)
