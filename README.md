@@ -11,7 +11,7 @@ Sou um estudante de Ciencia da Computação na UFF-PURO e Tecnico em informatica
 
 ### Links
 
-* [Beecrowd](https://www.hackerrank.com/gdsribeiro) antigo URI online judge
+* [Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/121763) antigo URI online judge
 * [HackerRank](https://www.hackerrank.com/gdsribeiro)
 * [Linkedin](https://www.linkedin.com/in/gabrielr-dev/)
 * [Telegram](https://t.me/ribeir_tk)
