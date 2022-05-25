@@ -1,6 +1,6 @@
 # Ola 👋
 
-Atualmente faço Ciencia da Computação na UFF-PURO e sou Tecnico em informatica pelo IFRJ-CAC.
+Sou um estudante de Ciencia da Computação na UFF-PURO e Tecnico em informatica pelo IFRJ-CAC. Ultimamente tenho gostado de aprender recursos do Python. Ja fiz alguns projetos academicos com Java e C/C++. Conheço Javascript e ja estudei um pouco de Typescript, ambos focando em React. Aprendi SQL(MySql/Postgres) e um pouco de mongodb na disciplina de banco de dados.
 
 ##
 
@@ -9,10 +9,13 @@ Atualmente faço Ciencia da Computação na UFF-PURO e sou Tecnico em informatic
 
 ##
 
-### Contato
+### Links
 
+* [Beecrowd](https://www.hackerrank.com/gdsribeiro) antigo URI online judge
+* [HackerRank](https://www.hackerrank.com/gdsribeiro)
 * [Linkedin](https://www.linkedin.com/in/gabrielr-dev/)
 * [Telegram](https://t.me/ribeir_tk)
+* [Portifólio]() em construção
 
 ##
 
@@ -22,6 +25,7 @@ Atualmente faço Ciencia da Computação na UFF-PURO e sou Tecnico em informatic
  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+ <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
