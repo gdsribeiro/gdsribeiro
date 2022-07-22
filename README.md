@@ -1,6 +1,10 @@
-# Ola 👋
+# Hi
 
-Sou um estudante de Ciencia da Computação na UFF-PURO e Tecnico em informatica pelo IFRJ-CAC. Ultimamente tenho gostado de aprender recursos do Python. Ja fiz alguns projetos academicos com Java e C/C++. Conheço Javascript e ja estudei um pouco de Typescript, ambos focando em React. Aprendi SQL(MySql/Postgres) e um pouco de mongodb na disciplina de banco de dados.
+Im a Computer Science student in UFF-PURO and Computer Technician by IFRJ=CAC. Recently I have been studying a little of everything. I made some academic projects with Java and C/C++. I know Javascript and studied a little of Typescript, both for React. I learned SQL(MySql/Postgres) and a little of mongodb in “banco de dados”s subject.
+
+# Olá
+
+Sou um estudante de Ciência da Computação na UFF-PURO e Técnico em informática pelo IFRJ-CAC. Ultimamente tenho estudado um pouco de tudo. Já fiz alguns projetos acadêmicos com Java e C/C++. Conheço Javascript e já estudei um pouco de Typescript, ambos focando em React. Aprendi SQL(MySql/Postgres) e um pouco de mongodb na disciplina de banco de dados.
 
 ##
 
@@ -11,11 +15,11 @@ Sou um estudante de Ciencia da Computação na UFF-PURO e Tecnico em informatica
 
 ### Links
 
-* [Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/121763) antigo URI online judge
+* [Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/121763)
 * [HackerRank](https://www.hackerrank.com/gdsribeiro)
 * [Linkedin](https://www.linkedin.com/in/gabrielr-dev/)
 * [Telegram](https://t.me/ribeir_tk)
-* [Portifólio]() em construção
+* [Portifólio]() under construction
 
 ##
 
