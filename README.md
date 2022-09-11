@@ -1,8 +1,8 @@
-# Hi
+# Hello world!
 
-Im a Computer Science student in UFF-PURO and Computer Technician by IFRJ=CAC. Recently I have been studying a little of everything. I made some academic projects with Java and C/C++. I know Javascript and studied a little of Typescript, both for React. I learned SQL(MySql/Postgres) and a little of mongodb in “banco de dados”s subject.
+Im a Computer Science student in UFF-PURO and Computer Technician by IFRJ-CAC. Recently I have been studying a little of everything. I made some academic projects with Java and C/C++. I know Javascript and studied a little of Typescript, both for React. I learned SQL(MySql/Postgres) and a little of mongodb in “banco de dados”s subject.
 
-# Olá
+# Olá mundo!
 
 Sou um estudante de Ciência da Computação na UFF-PURO e Técnico em informática pelo IFRJ-CAC. Ultimamente tenho estudado um pouco de tudo. Já fiz alguns projetos acadêmicos com Java e C/C++. Conheço Javascript e já estudei um pouco de Typescript, ambos focando em React. Aprendi SQL(MySql/Postgres) e um pouco de mongodb na disciplina de banco de dados.
 
