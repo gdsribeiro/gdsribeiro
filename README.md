@@ -19,7 +19,7 @@ Sou um estudante de Ciência da Computação na UFF-PURO e Técnico em informát
 * [HackerRank](https://www.hackerrank.com/gdsribeiro)
 * [Linkedin](https://www.linkedin.com/in/gabrielr-dev/)
 * [Telegram](https://t.me/ribeir_tk)
-* [Portifólio]() under construction
+* [Portifólio]()
 
 ##
 
