@@ -8,15 +8,12 @@ Sou um estudante de Ciência da Computação na UFF-PURO e Técnico em informát
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tetr4k&custom_title=My%20stats&theme=transparent&show_icons=false&hide=stars,issues&rank_icon=github&include_all_commits=true&text_bold=false")
 
-### Links
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tetr4k)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielr-dev/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ribeir_tk)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/gdsribeiro)
 
-* [Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/121763)
-* [HackerRank](https://www.hackerrank.com/gdsribeiro)
-* [Linkedin](https://www.linkedin.com/in/gabrielr-dev/)
-* [Telegram](https://t.me/ribeir_tk)
-* [Portifólio]()
-
-##
+## 
 
 <div align="center">
  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
