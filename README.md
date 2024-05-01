@@ -4,7 +4,7 @@ Im Gabriel, a Computer Science student in UFF-CURO and curious on "Fullstack" de
 Feel free to contact me!
 #
 
-Eu sou Gabriel, Um estudante de Ciência da Computação na UFF-CURO e curioso em desenvolvimento "Fullstack". Meus hobbies? Jogos multiplayer, academia e aprender a cozinhar. Aprendi Java e C/C++ para algumas disciplinas da faculdade. Trabalhando com VueJS e Flask. Procurando oportunidades em engenharia de software.
+Eu sou Gabriel, um estudante de Ciência da Computação na UFF-CURO e curioso em desenvolvimento "Fullstack". Meus hobbies? Jogos multiplayer, academia e aprender a cozinhar. Aprendi Java e C/C++ para algumas disciplinas da faculdade. Trabalhando com VueJS e Flask. Procurando oportunidades em engenharia de software.
 
 Sinta-se a vontate para entrar em contato!
 #
