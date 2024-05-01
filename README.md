@@ -6,12 +6,7 @@ Im a Computer Science student in UFF-PURO and Computer Technician by IFRJ-CAC. R
 
 Sou um estudante de Ciência da Computação na UFF-PURO e Técnico em informática pelo IFRJ-CAC. Ultimamente tenho estudado um pouco de tudo. Já fiz alguns projetos acadêmicos com Java e C/C++. Conheço Javascript e já estudei um pouco de Typescript, ambos focando em React. Aprendi SQL(MySql/Postgres) e um pouco de mongodb na disciplina de banco de dados.
 
-##
-
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=tetr4k&show_icons=true&hide=stars,issues&theme=tokyonight">
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetr4k&layout=compact&theme=tokyonight&exclude_repo=LancaBolinhas&hide=Assembly,HTML,Makefile,Objective-C">
-
-##
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tetr4k&custom_title=My%20stats&theme=transparent&show_icons=false&hide=stars,issues&rank_icon=github&include_all_commits=true&text_bold=false")
 
 ### Links
 
