@@ -8,7 +8,7 @@ Eu sou Gabriel, um estudante de Ciência da Computação na UFF-CURO e curioso e
 
 Sinta-se a vontate para entrar em contato!
 #
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tetr4k&custom_title=My%20stats&theme=transparent&show_icons=false&hide=stars,issues&rank_icon=github&include_all_commits=true&text_bold=false")
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gdsribeiro&custom_title=My%20stats&theme=transparent&show_icons=false&hide=stars,issues&rank_icon=github&include_all_commits=true&text_bold=false")
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tetr4k)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielr-dev/)
